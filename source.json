@@ -13,9 +13,6 @@
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
     "vpmPackages": {
         "com.anatawa12.custom-localization-for-editor-extension": {
             "sources": ["https://vpm.anatawa12.com/vpm.json"]
