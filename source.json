@@ -9,20 +9,19 @@
     },
     "description":"Example listing of VRChat packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/anatawa12/package-listing-for-testing",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
         "vrchat-community/clientsim"
     ],
-    "packages":[
-        {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
+    "vpmPackages": {
+        "com.anatawa12.custom-localization-for-editor-extension": {
+            "sources": ["https://vpm.anatawa12.com/vpm.json"]
+        },
+        "nadena.dev.ndmf": {
+            "sources": ["https://vpm.nadena.dev/vpm.json"]
         }
-    ]
+    }
 }
