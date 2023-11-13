@@ -15,10 +15,10 @@
     "bannerUrl":"banner.png",
     "vpmPackages": {
         "com.anatawa12.custom-localization-for-editor-extension": {
-            "sources": ["https://vpm.anatawa12.com/vpm.json"]
+            "source": "https://vpm.anatawa12.com/vpm.json"
         },
         "nadena.dev.ndmf": {
-            "sources": ["https://vpm.nadena.dev/vpm.json"]
+            "source": "https://vpm.nadena.dev/vpm.json"
         }
     }
 }
